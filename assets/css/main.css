@@ -5,6 +5,12 @@ body{
   font-family: Roboto, sans-serif;
 }
 
+.header {
+  transition: all 0.5s;
+  z-index: 997;
+  padding: 24px 0;
+}
+
 h1{
   background: rgba(0,0,0,0.5);
   padding: 10px;
